@@ -119,12 +119,6 @@ figure.wrapped figcaption {
 }
 
 figure.gallery {
-    width: 100%;
-    height:auto;
-    display: flex;
-}
-
-figure.gallery {
     margin: .5rem 2% 0 0;
 }
 
